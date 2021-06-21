@@ -8,6 +8,8 @@ public class SuankiSaniyeHesapla {
 	long suansaniye = (milisaniye / 1000) %60;
 	
 	System.out.println("Şuanki saniye : "+ suansaniye);
+		
+	System.out.println("Furkan Sen");
 	
 	
 	
