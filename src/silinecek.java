@@ -6,3 +6,4 @@ public class silinecek {
 
 	}
 }
+silelim gitsin o zmaan
